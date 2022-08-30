@@ -2,12 +2,11 @@
   percentage: 90
   color: 
 
-- name: C++ (Learning!)
+- name: C++
   percentage: 70
   color: danger
 
-- name: OpenGL / OpenGL ES / Vulkan (Learning!)
-  percentage: 70
+- name: OpenGL / OpenGL ES / Vulkan
   color: danger
 
 - name: Python
