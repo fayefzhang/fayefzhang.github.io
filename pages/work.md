@@ -3,9 +3,6 @@ layout: default
 title: Work
 permalink: /work/
 weight: 1
-remote_projects: 
-  - git-for-wizards
-  - arduino-visitor-counter
 ---
 
 {% include work/index.html %}

@@ -46,53 +46,18 @@ author:
 # keybase           : your_username
 
 
-### Posts ###
-permalink: /blog/:title
-
-
 ### Collections ###
 collections:
   work:
     output: true
     permalink: /work/:name
-  portfolio:
-    output: true
-    permalink: /portfolio/:name
-
-
-### Disqus ###
-disqus:
-  enabled: false  
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
-
-### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
-
+    
 
 ### Defaults for collections ###
 defaults:
   - scope:
       path: ""
       type: "work"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "portfolio"
     values:
       layout: "page"
 
