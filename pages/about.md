@@ -8,7 +8,7 @@ weight: 2
 # **About Me**
 
 Hello! I am **{{ site.author.name }}** o(*ﾟ∇ﾟ)ﾉ,<br>
-💻 I am an undergrad at the University of Pennsylvania studying Computer Science and Digital Media Design. 
+💻 I am an undergrad at the University of Pennsylvania studying Computer Science and Digital Media Design. <br>
 🕹️ I am passionate about computer programming, computer graphics, human-computer interaction, virtual reality, game and media development.
 
 <div class="row">
