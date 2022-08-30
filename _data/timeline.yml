@@ -1,0 +1,14 @@
+- title: Software Engineer Intern, Google
+  from: May 2022
+  to: Aug 2022
+  description: Interned on Google's <a href="https://angleproject.org/">Android GPU - ANGLE</a> team
+               in Mountain View, CA. Fixed bugs, optimized the ANGLE codebase, implemented an OpenGL extension
+               with support for calls to all back-ends in ANGLE, and added performance tests to test ANGLE
+               under heavyweight CUJs. <br> I worked with C++, OpenGL, OpenGL ES, Vulkan, Git, Gerrit.
+
+- title: Teaching Assistant, CMU
+  from: Jun 2020
+  to: Aug 2020
+  description: Taught game design “Conflict Resolution & Team Management” lecture to 100 high school 
+               students attending Carnegie Mellon University (CMU)'s National High School Game Academy (NHSGA).
+               Facilitated game academy classes, set up grading, held office hours and offered advice to students

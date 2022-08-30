@@ -1,0 +1,23 @@
+- name: Java / C#
+  percentage: 90
+  color: 
+
+- name: C++ (Learning!)
+  percentage: 70
+  color: danger
+
+- name: OpenGL / OpenGL ES / Vulkan (Learning!)
+  percentage: 70
+  color: danger
+
+- name: Python
+  percentage: 60
+  color: secondary
+
+- name: OCaml
+  percentage: 60
+  color: secondary
+
+- name: HTML5 / CSS3
+  percentage: 60
+  color: secondary

@@ -1,0 +1,104 @@
+### Site Settings ###
+title               : Faye Zhang
+description         : >-
+                      Nice to meet you~ (^-^)/<br>
+                      I study <a href="http://cg.cis.upenn.edu/dmd.html">Digital Media Design</a> :book: at UPenn and 
+                      worked as a <b>Software Engineering Intern</b> :computer: on the <a href="https://angleproject.org/">Android GPU - ANGLE</a> team at Google this summer!
+baseurl             : ""
+repository          : fayefzhang/fayefzhang.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Faye Zhang
+  image             : assets/pfp.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : ffz@seas.upenn.edu
+# facebook          : your_username
+  github            : fayefzhang
+# gitlab            : your_username
+  instagram         : flufflaire
+# kaggle            : your_username
+  linkedin          : fayefzhang
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : flufflaire
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  portfolio:
+    output: true
+    permalink: /portfolio/:name
+
+
+### Disqus ###
+disqus:
+  enabled: false  
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "page"
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

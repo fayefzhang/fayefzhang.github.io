@@ -1,0 +1,15 @@
+- name: Adobe Photoshop
+  percentage: 95
+  color: 
+
+- name: Adobe Illustrator
+  percentage: 90
+  color: 
+
+- name: Figma (Learning!)
+  percentage: 70
+  color: danger
+
+- name: Adobe Premiere
+  percentage: 60
+  color: secondary
