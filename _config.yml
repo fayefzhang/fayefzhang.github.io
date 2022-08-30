@@ -48,10 +48,10 @@ author:
 
 ### Collections ###
 collections:
-  work:
+  projects:
     output: true
     permalink: /work/:name
-    
+
 
 ### Defaults for collections ###
 defaults:
@@ -60,6 +60,7 @@ defaults:
       type: "work"
     values:
       layout: "page"
+
 
 ### Exclude from processing ###
 exclude:
