@@ -52,9 +52,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
+  work:
     output: true
-    permalink: /projects/:name
+    permalink: /work/:name
   portfolio:
     output: true
     permalink: /portfolio/:name
@@ -87,7 +87,7 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "work"
     values:
       layout: "page"
   - scope:
