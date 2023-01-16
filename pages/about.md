@@ -11,12 +11,12 @@ Hello! I am **{{ site.author.name }}** o(*ﾟ∇ﾟ)ﾉ,<br>
 💻 I am an undergrad at the University of Pennsylvania studying Computer Science and Digital Media Design. <br>
 🕹️ I am passionate about computer programming, computer graphics, human-computer interaction, virtual reality, game and media development.
 
+## Experience
 <div class="row">
 {% include about/timeline.html %}
 </div>
 
-<br>
-
+## My Skills
 **<u>Technical Software and Programming Languages</u>** <br>
 ● Computer Graphics Scripting: C++, OpenGL, OpenGL ES, Vulkan <br>
 ● Computer Programming: Java, Python <br>

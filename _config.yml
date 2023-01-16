@@ -2,7 +2,7 @@
 title               : Faye Zhang
 description         : >-
                       Nice to meet you~ (^-^)/<br>
-                      I study <a href="http://cg.cis.upenn.edu/dmd.html">Digital Media Design</a> :book: at <a href="https://www.upenn.edu">UPenn</a> and 
+                      I study Computer Science + Design :book: @ <a href="https://www.upenn.edu">UPenn</a> and 
                       worked as a <b>Software Engineering Intern</b> :computer: on the <a href="https://angleproject.org/">Android GPU - ANGLE</a> team at Google last summer!
 baseurl             : ""
 repository          : fayefzhang/fayefzhang.github.io
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Faye Zhang
-  image             : assets/pfp.jpg
+  image             : assets/faye_zhang.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : ffz@seas.upenn.edu

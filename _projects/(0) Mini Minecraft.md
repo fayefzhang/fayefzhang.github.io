@@ -7,7 +7,7 @@ description: Miniature ground-up version of Minecraft built using only C++ and O
 ---
 
 # Mini Minecraft
-I built a miniature ground-up version of Minecraft with 2 other team members using only C++ and OpenGL.
+I built a miniature ground-up version of Minecraft with 2 other team members using only **C++** and **OpenGL**.
 
 <div style="margin-left: auto; margin-right: auto; width: 80%;">
 <img src="https://cdn.discordapp.com/attachments/491749137172398091/1064368152907096155/image.png">
