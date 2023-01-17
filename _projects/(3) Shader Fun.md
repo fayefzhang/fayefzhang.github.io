@@ -7,7 +7,7 @@ description: Custom Vertex and Post-Processing GLSL shaders applied onto a Model
 ---
 
 ## Rasterizer
-I built a ground-up rasterizer of 3D models sing only C++ and OpenGL.
+I built a simple 3D model -> 2D image rasterizer using only C++ and OpenGL.
 
 ## GLSL Shaders
 I was responsible for **writing all shown GLSL shaders and designing a worley noise-based post-processing shader and a custom vertex deformation shader**.
