@@ -3,7 +3,7 @@ layout: page
 name: Rasterizer & Custom GLSL Shaders
 tools: [C++, OpenGL, GLSL, QT]
 image: https://cdn.discordapp.com/attachments/491749137172398091/1064381165580075091/wahoo.gif
-description: Custom Vertex and Post-Processing GLSL shaders applied onto a Model of Mario (credited to Nintendo).
+description: Custom Vertex and Post-Processing GLSL shaders applied onto a Model of Mario (credited to Nintendo). Click this card to view a demo.
 ---
 
 ## Rasterizer

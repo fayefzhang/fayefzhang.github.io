@@ -1,9 +1,9 @@
 ---
 layout: page
 name: UI/UX Designer, Visual Developer, and Story Writer for UPGRADE’s "Bionic Traveler"
-tools: [Unity, C#, Photoshop, Writing, Yarn Spinner]
+tools: [Unity, C#, Photoshop, Writing, Yarn Spinner, UI/UX Design]
 image: https://pbs.twimg.com/media/FJStIVZUYAAod1F?format=jpg
-description: UI/UX Designer, Visual and Story Developer for "Bionic Traveler" Open World Game
+description: UI/UX Designer, Visual and Story Developer for "Bionic Traveler" Open World Game. Click this card to learn about my process.
 ---
 
 # Bionic Traveler
