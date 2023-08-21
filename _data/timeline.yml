@@ -1,10 +1,19 @@
 - title: Software Engineer Intern, Google
+  from: May 2023
+  to: July 2023
+  description: Worked in the Google Shopping & Suggest Team in Mountain View, CA.
+               Designed and implemented efficient code augmentation for the “Shopping on Suggest”
+               feature as foundation to increase the accuracy of suggestions and improve more
+               relevant and positive consumer shopping experience.
+               Technical Skills - C++, Product Research & Development, User Research
+
+- title: Software Engineer Intern, Google
   from: May 2022
   to: Aug 2022
-  description: Interned on Google's <a href="https://angleproject.org/">Android GPU - ANGLE</a> team
-               in Mountain View, CA. Fixed bugs, optimized the ANGLE codebase, implemented an OpenGL extension
-               with support for calls to all back-ends in ANGLE, and added performance tests to test ANGLE
-               under heavyweight CUJs. <br> I worked with C++, OpenGL, OpenGL ES, Vulkan, Git, and Gerrit.
+  description: Worked in the Google <a href="https://angleproject.org/">Android GPU - ANGLE</a> team.
+               Implemented OpenGL extension with support for all back-end calls, conducted performance
+               tests, and ensured the stability and efficiency of ANGLE.
+               Technical skills - Git, Gerrit, OpenGL, OpenGL ES, Vulkan.
 
 - title: Teaching Assistant, CMU
   from: Jun 2020

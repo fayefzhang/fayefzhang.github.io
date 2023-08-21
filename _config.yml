@@ -2,8 +2,8 @@
 title               : Faye Zhang
 description         : >-
                       Nice to meet you~ (^-^)/<br>
-                      I study Computer Science + Design :book: @ <a href="https://www.upenn.edu">UPenn</a> and 
-                      worked as a <b>Software Engineering Intern</b> :computer: on the <a href="https://angleproject.org/">Android GPU - ANGLE</a> team at Google last summer!
+                      I am a 2x <a href="https://www.google.com/">Google</a> SWE Intern, current Interactive Engineer Intern @ <a href="https://www.teamlab.art/">teamlab</a>,
+                      and a Computer Science + Design student :book: @ <a href="https://www.upenn.edu">UPenn</a>.
 baseurl             : ""
 repository          : fayefzhang/fayefzhang.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -31,7 +31,7 @@ author:
 # facebook          : your_username
   github            : fayefzhang
 # gitlab            : your_username
-  instagram         : flufflaire
+# instagram         : your_username
 # kaggle            : your_username
   linkedin          : fayefzhang
 # medium            : your_username
@@ -40,7 +40,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : flufflaire
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
