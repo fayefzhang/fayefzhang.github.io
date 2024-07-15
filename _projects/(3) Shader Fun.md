@@ -2,7 +2,7 @@
 layout: page
 name: Rasterizer & Custom GLSL Shaders
 tools: [C++, OpenGL, GLSL, QT]
-image: assets/shaderfun.gif
+image: https://github.com/fayefzhang/fayefzhang.github.io/blob/main/assets/shaderfun.gif
 description: Custom Vertex and Post-Processing GLSL shaders applied onto a Model of Mario (credited to Nintendo). Click this card to view a demo.
 ---
 

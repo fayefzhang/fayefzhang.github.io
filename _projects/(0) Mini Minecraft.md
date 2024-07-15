@@ -2,7 +2,7 @@
 layout: page
 name: Mini-Minecraft
 tools: [C++, OpenGL, QT]
-image: assets/miniminecraft.png
+image: https://github.com/fayefzhang/fayefzhang.github.io/blob/main/assets/miniminecraft.png
 description: Miniature ground-up version of Minecraft built using only C++ and OpenGL. Click this card to view a demo.
 ---
 
@@ -10,7 +10,7 @@ description: Miniature ground-up version of Minecraft built using only C++ and O
 I built a miniature ground-up version of Minecraft with 2 other team members using only **C++** and **OpenGL**.
 
 <div style="margin-left: auto; margin-right: auto; width: 80%;">
-<img src="assets/miniminecraft.png">
+<img src="https://github.com/fayefzhang/fayefzhang.github.io/blob/main/assets/miniminecraft.png">
 </div>
 
 **I was responsible for:**
