@@ -2,7 +2,7 @@
 layout: page
 name: Mini-Minecraft
 tools: [C++, OpenGL, QT]
-image: https://cdn.discordapp.com/attachments/491749137172398091/1064368152907096155/image.png
+image: assets/miniminecraft.png
 description: Miniature ground-up version of Minecraft built using only C++ and OpenGL. Click this card to view a demo.
 ---
 
