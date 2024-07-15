@@ -1,32 +1,36 @@
+- title: Software Engineer Intern, Google
+  from: Jun 2024
+  to: Sep 2024
+  description:
+    Worked on the Google Core Data Caching team.
+    Skills - C++, Algorithms, Distributed Systems, Caching Data
+
+- title: Software Developer Intern, Five Rings
+  from: Jan 2024
+  to: Feb 2024
+  description:
+    Worked on trading system enhancements and trading simulator environment improvements.
+    Skills - System Design, Shell Scripting, Python, C++
+
 - title: Interactive Computer Graphics Engineer, teamLab
   from: Aug 2023
   to: Sep 2023
-  description: Intern with an interdisciplinary group of computer graphics engineers that
-               design and build stunning, real-time installations to navigate the confluence of art,
-               science, technology, self and the natural world and create interactive and artistic
-               consumer experiences across the globe from Tokyo, Shanghai, Singapore to New York. 
-               Technical Skills - Unity, Unity Shaders, C#, Algorithms
+  description:
+    Designed and programmed graphics for an extension of real-time interactive
+    art piece, The Infinite Crystal Universe, on display now at teamLab Borderless @
+    MORI Building DIGITAL ART MUSEUM permanent exhibit in Tokyo.
+    Skills - Unity, Unity Shaders, C#, Algorithm Design, TouchDesigner, Technical Ar
 
 - title: Software Engineer Intern, Google
   from: May 2023
   to: Jul 2023
-  description: Worked in the Google Shopping & Suggest Team in Mountain View, CA.
-               Designed and implemented efficient code augmentation for the “Shopping on Suggest”
-               feature as foundation to increase the accuracy of suggestions and improve more
-               relevant and positive consumer shopping experience.
-               Technical Skills - C++, Product Research & Development, User Research
+  description:
+    Worked on the Google Shopping Growth (Shopping & Suggest) Team.
+    Skills -C++, Algorithms, Product Research & Development, User Research
 
 - title: Software Engineer Intern, Google
   from: May 2022
   to: Aug 2022
-  description: Worked in the Google <a href="https://angleproject.org/">Android GPU - ANGLE</a> team.
-               Implemented OpenGL extension with support for all back-end calls, conducted performance
-               tests, and ensured the stability and efficiency of ANGLE.
-               Technical skills - Git, Gerrit, OpenGL, OpenGL ES, Vulkan.
-
-- title: Teaching Assistant, CMU
-  from: Jun 2020
-  to: Aug 2020
-  description: Taught game design “Conflict Resolution & Team Management” lecture to 100 high school 
-               students attending Carnegie Mellon University (CMU)'s National High School Game Academy (NHSGA).
-               Facilitated game academy classes, set up grading, held office hours and offered advice to students.
+  description:
+    Worked on the Android GPU - ANGLE (Almost Native Graphics Layer Engine) Team.
+    Skills - C++, Graphics Driver Programming, Gerrit, OpenGL, OpenGL ES, Vulkan

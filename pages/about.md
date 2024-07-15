@@ -9,7 +9,7 @@ weight: 3
 
 Hello! I am **{{ site.author.name }}** o(*ﾟ∇ﾟ)ﾉ,<br>
 
-💻 I am a 2x Google SWE Intern, Interactive CG Intern at teamLab in Tokyo, Japan, and an undergrad at the University of Pennsylvania studying Computer Science and Digital Media Design. <br>
+💻 I am a 3x Google SWE Intern, Interactive CG Intern at teamLab in Tokyo, Japan, and an undergrad at the University of Pennsylvania studying Computer Science and Digital Media Design. <br>
 🕹️ I am passionate about computer programming, computer graphics, human-computer interaction, virtual reality, game and media development.
 
 ## Experience
