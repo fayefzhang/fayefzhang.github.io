@@ -35,14 +35,6 @@ My role was essential to **bridging** the gap from writing team's storyboard...
 ![storyboard from the writing team](https://i.imgur.com/xnYzuhP.png)
 
 ...to an open world mini-map that put essential story locations in places that made sense in relation to each other.
-<div style="margin-left: auto; margin-right: auto; width: 75%;">
-{% capture carousel_images %}
-https://cdn.discordapp.com/attachments/883410671709089822/925913463950278708/map_town_grid_mockup.png
-https://cdn.discordapp.com/attachments/883410671709089822/909266665127170168/map_mockup_-_Copy.png
-https://cdn.discordapp.com/attachments/883410671709089822/906671012249206794/map_mockup3.png
-{% endcapture %}
-{% include elements/carousel.html %}
-</div>
 
 <p class="text-center">
 The game is now published and available for you to play!
