@@ -1,7 +1,7 @@
 ---
 name: 2D Platformer "Thorium" 
 tools: [Godot, Blender, Photoshop]
-image: https://img.itch.zone/aW1nLzMxNjY1MjYucG5n/original/iIxXa%2F.png
-description: Created a story-based game on mutual support amid a pandemic on Windows, macOS, and Linux. Created all assets and programmed the game individually in 48 hours for Stay Safe! Jam in March 2020. 
-external_url: https://flufflaire.itch.io/support-group
+image: https://raw.githubusercontent.com/fayefzhang/fayefzhang.github.io/main/assets/thorium.png
+description: "Truly radioactive" game made for UPGRADE in 24 HR with a team of 4. Responsible for programing (Godot/gdScript), modeling, 2d animations, and UI. Awarded best in theme.
+external_url: https://fayefzhang.itch.io/thorium
 ---
