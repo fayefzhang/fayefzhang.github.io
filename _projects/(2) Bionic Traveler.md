@@ -10,8 +10,6 @@ description: UI/UX Designer, Visual and Story Developer for "Bionic Traveler" Op
 
 Designed and created UI elements for **UPGRADE** (Penn's Premiere Game Developement Club)’s 2021-2022 top-down 2D open-world game.
 
-![ui menu](https://pbs.twimg.com/media/FJStJ3lUcAIQJkY?format=jpg&name=large)
-
 ## Enemy Hackathon Winner!
 
 UPGRADE hosted a very short hackathon during March 2022 for developers to form teams of 4 and churn out an enemy for the game within a short 6 hours. As part of a team with 3 others, I created visual assets and assisted the implementation of a teleporting enemy which was voted and awarded winner of the hackathon.
